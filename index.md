@@ -5,26 +5,29 @@ header: W0lfb1t
 ---
 
 <div class="row">
-	<div class="span6">
+	<div class="span4">
 		<img src="http://www.gravatar.com/avatar/8e687484647e5b4598b88ec484a60f84?s=200">
 		<p>
-My name is Hilario.
-I'm a software developer.
-I also like to play PC games.
-
+<strong>My name is Hilario.</strong><br/>
+I'm a software developer.<br/>
+I also like to play PC games.<br/>
+<br/>
 I enjoy learning new technologies.
 		</p>
 		<p>
 You can find me here:
- * [Google+](https://plus.google.com/110325304617093683727)
- * [Twitter](http://twitter.com/hpcorona)
- * [Steam](http://steamcommunity.com/id/muymaton/)
- * [Github](https://github.com/hpcorona)
+		<ul>
+ 			<li><a href="https://plus.google.com/110325304617093683727">Google+</a></li>
+			<li><a href="http://twitter.com/hpcorona">Twitter</a></li>
+			<li><a href="http://steamcommunity.com/id/muymaton/">Steam</a></li>
+			<li><a href="https://github.com/hpcorona">Github</a></li>
+		</ul>
 		</p>
 	</div>
 	
-	<div class="span8">
-## Posts
+	<div class="span10">
+
+<h2>Posts</h2>
 
 <ul class="posts">
   {% for post in site.posts %}

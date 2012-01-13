@@ -13,13 +13,14 @@ I'm a software developer.
 I also like to play PC games.
 
 I enjoy learning new technologies.
+		</p>
 		<p>
 You can find me here:
  * [Google+](https://plus.google.com/110325304617093683727)
  * [Twitter](http://twitter.com/hpcorona)
  * [Steam](http://steamcommunity.com/id/muymaton/)
  * [Github](https://github.com/hpcorona)
-
+		</p>
 	</div>
 	
 	<div class="span8">

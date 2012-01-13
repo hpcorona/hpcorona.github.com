@@ -24,7 +24,7 @@ The column delimiter will be the ASCII character 1, and the row delimiter will b
 
 So, given a row index, i want to copy the row and it's childs, preserving hierarchy, into memory, so i can paste it later.
 
-<script src="https://gist.github.com/1608418.js?file=gistfile1.txt"></script>
+<script src="https://gist.github.com/1608418.js?file=gistfile1.txt">&nbsp;</script>
 
 ## Then, we need to Paste the row
 
@@ -33,7 +33,7 @@ of another node given a position, or as a child of another node.
 
 So, we will be have the following function...
 
-<script src="https://gist.github.com/1608418.js?file=gistfile1.txt"></script>
+<script src="https://gist.github.com/1608418.js?file=gistfile1.txt">&nbsp;</script>
 
 You'll see some weird code at the start to get `nRelPos`. That's because `TableInsertChild` takes as third parameter the child's relative position.
 

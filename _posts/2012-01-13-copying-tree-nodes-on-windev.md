@@ -1,4 +1,5 @@
 ---
+safe: true
 layout: post
 category: development
 tags: windev

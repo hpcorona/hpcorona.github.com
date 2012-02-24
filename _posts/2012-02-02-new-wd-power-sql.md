@@ -1,7 +1,7 @@
 ---
 layout: post
 category: development
-tags: development, windev, hyperfile, database
+tags: development windev hyperfile database
 ---
 
 Ok, it's been a long time since i've created the first and second version of WD Easy SQL.
